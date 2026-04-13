@@ -35,6 +35,6 @@ Me chamo Ana Paula, tenho 20 anos e sou estudante de Ciência da Computação, a
 ## 🌐 Redes
 
 [![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anapaula_machado7/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ana-paula-machado-145ab934a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-paula-machado-145ab934a)
 
 
