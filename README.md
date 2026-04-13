@@ -8,9 +8,9 @@ Me chamo Ana Paula, tenho 20 anos e sou estudante de Ciência da Computação, a
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaPaula-dev&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AnaPaula-dev&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaPaula-dev&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnaPaula-dev&layout=compact&theme=tokyonight)
 
 ---
 
